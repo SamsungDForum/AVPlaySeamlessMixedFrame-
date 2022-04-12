@@ -1,4 +1,3 @@
-# AVPlaySeamlessMixedFrame-
 # AVPlay SeamlessPlay - MixedFrame mode
 
 This application demonstrates the usage of `webapis.avplaystore` API playing videos in seamless manner using Mixedframe mode. Using AVPlay store you can run two players simultaneously. With this API it is possible to have a video player in application. AVPlay is alternative to HTML5 player and has many advantages over it including: wider range of codecs and formats, DRMs support, hardware acceleration.
